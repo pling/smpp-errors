@@ -1,0 +1,26 @@
+{
+  "name": "smpp-errors",
+  "version": "1.0.0",
+  "description": "SMPP message state and error codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha **/*test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pling/smpp-errors.git"
+  },
+  "keywords": [
+    "SMPP",
+    "error",
+    "code",
+    "message",
+    "state"
+  ],
+  "author": "Aaron Schinkowitch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pling/smpp-errors/issues"
+  },
+  "homepage": "https://github.com/pling/smpp-errors#readme"
+}
