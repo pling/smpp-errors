@@ -48,3 +48,4 @@ TERMINAL_NOT_AVAILABLE | 0x404 | The terminal is not available.
 TERMINAL_MEMORY_FULL | 0x405 | The memory on the terminal is full.
 BLACKLISTED | 0x406 | The destination address has been blacklisted by the carrier.
 MESSAGE_CONTENT_INVALID | 0x407 | The content of the message was invalid.
+BLOCKED_PAYMENT_MISSING | 0x408 | Blocked due to missing payment by the subscriber. 
